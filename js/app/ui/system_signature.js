@@ -106,7 +106,7 @@ define([
         'Anomalie cosmique',
         'Signature cosmique',
         'Космическая аномалия',                                                 // == "Cosmic Anomaly"
-        'Источники сигналов'                                                    // == "Cosmic Signature"
+        'Скрытый сигнал'                                                    // == "Cosmic Signature"
     ];
 
     // some static signature data
